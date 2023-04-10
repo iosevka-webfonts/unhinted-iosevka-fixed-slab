@@ -1,4 +1,4 @@
-# Unhinted Iosevka Fixed Slab WebFont 22.0.0
+# Unhinted Iosevka Fixed Slab WebFont 22.0.1
 
 ## How to use
 
